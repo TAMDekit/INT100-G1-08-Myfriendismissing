@@ -1,47 +1,45 @@
-👥 Team Introduction — INT100-G1-08-Myfriendismissing
-Welcome to our team repository!
-We are students in INT100-G1-08, and this file introduces our team and our collaboration process on GitHub.
+<div align="center">
 
-🧠 Team Name: Myfriendismissing
-Our team name is Myfriendismissing.
+🎤 Interview
+<span style="color:#6C63FF;">Interview By</span>
+Wannakorn Chongsanguan
 
-We chose this name because it is unique, memorable, and reflects teamwork in a fun way.
-The meaning behind the name is that when one friend is “missing,” everyone in the group helps and supports each other.
-This represents our team spirit: no one gets left behind. 🤝
+<img src="https://cdn.phototourl.com/free/2026-08-16-4c2d9cf7-3e1a-46df-9ce7-f6ec8b80d953.png" alt="Noon Photo" width="300">
 
-👤 Team Members
-@member1
-@member2
-@member3
-@member4
-Replace with actual GitHub usernames.
+<div align="center">
 
-📌 Collaboration Plan (GitHub Flow)
-We follow GitHub Flow in this project:
+## <h2><a href="https://github.com/mairusikub">GitHub: decemberlnwza007</a></h2>
 
-One member creates the repository.
-Each member creates their own branch.
-Each member edits our-team.md in their branch.
-Each member opens a Pull Request (PR).
-Another teammate reviews and approves the PR.
-PR is merged only after approval ✅
-🗂️ Required Work Checklist
- Create our-team.md
- Discuss and document team name decision (Issue)
- Create issues for teammate introduction details
- Each member writes an introduction for another teammate
- Use required markdown:
- Picture
- Link
- List
- Emoji
- Every PR reviewed and approved by another teammate
- Invite aj.Siam and class tutors as collaborators
- Add file link to submissions.md
-🔗 Submission
-After finalizing this file, add this link to submissions.md:
+</div>
 
-our-team.md
-📝 Notes
-This is the current team overview version.
-Teammate-by-teammate introductions, photos, and social links will be added in the next update.
+## **👤 What kind of person are you, and why?**
+
+I am a person who is not very confident and does not like to express myself much because I lack self-confidence.
+---
+## **🏀🎸 What do you like to do in your free time, and why?**
+
+I like playing basketball and guitar because I have fun when I do them.
+---
+## **❤️ What is the most important thing in your life, and why?**
+
+My family is the most important thing in my life because they always support me whenever I have problems.
+---
+## **🌱 What experience has had the biggest impact on who you are today?**
+
+My biggest experience was making a mistake by not finishing a project. It taught me to learn from my mistakes, improve myself, and be patient with the mistakes I face.
+---
+## **💼 What do you think a good business should have, and why?**
+
+I think a good business should have good management because if it is not managed well, the business may go bankrupt.
+---
+<div align="center">
+
+📝 Interview Information
+
+<table> <tr> <td><strong>Interview by</strong></td> <td>Wannakorn_053</td> </tr> <tr> <td><strong>Answer by</strong></td> <td>Phattharaphon_044</td> </tr> </table>
+
+<br>
+
+<sub>🎤 Interview By Wannakorn Chongsanguan</sub>
+
+</div>
