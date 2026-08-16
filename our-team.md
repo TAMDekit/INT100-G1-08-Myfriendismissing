@@ -2,20 +2,11 @@
 <h1><p align="center"><strong>Interview by Natthawat Rodchanathanatham 69130500020</strong></p></h1>
 
 <center>
-  <img src="image/thanwa.jpg" alt="thanwa" class="profile">
-  <br>
 
+  <img src="image/thanwa.jpg" alt="thanwa" width="300" height="300">
+  <br>
   <h2><a href="https://github.com/decemberlnwza007">GitHub: decemberlnwza007</a><h/2>
 </center>
-
-<style>
-  .profile {
-    width: 300px;
-    height: 300px;
-    border-radius: 50%;
-    object-fit: cover;
-  }
-</style>
 
 <p>
 <p>
