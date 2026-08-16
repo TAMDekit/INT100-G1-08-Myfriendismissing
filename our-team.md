@@ -1,47 +1,38 @@
-👥 Team Introduction — INT100-G1-08-Myfriendismissing
-Welcome to our team repository!
-We are students in INT100-G1-08, and this file introduces our team and our collaboration process on GitHub.
+<div align="center">
 
-🧠 Team Name: Myfriendismissing
-Our team name is Myfriendismissing.
+<h4>🎤 Interview By</h4>
+<h1>Phongsakon Thongrak | 69130500037</h1>
 
-We chose this name because it is unique, memorable, and reflects teamwork in a fun way.
-The meaning behind the name is that when one friend is “missing,” everyone in the group helps and supports each other.
-This represents our team spirit: no one gets left behind. 🤝
+</div>
 
-👤 Team Members
-@member1
-@member2
-@member3
-@member4
-Replace with actual GitHub usernames.
+👤 <b>Name:</b> Natthawat Rodchanathanatham <br>
+✨ <b>Nickname:</b> Tam <br>
+💻 <b><a href="https://www.instagram.com/tam.ntw/">Instagram</a></b>
 
-📌 Collaboration Plan (GitHub Flow)
-We follow GitHub Flow in this project:
+<br>
 
-One member creates the repository.
-Each member creates their own branch.
-Each member edits our-team.md in their branch.
-Each member opens a Pull Request (PR).
-Another teammate reviews and approves the PR.
-PR is merged only after approval ✅
-🗂️ Required Work Checklist
- Create our-team.md
- Discuss and document team name decision (Issue)
- Create issues for teammate introduction details
- Each member writes an introduction for another teammate
- Use required markdown:
- Picture
- Link
- List
- Emoji
- Every PR reviewed and approved by another teammate
- Invite aj.Siam and class tutors as collaborators
- Add file link to submissions.md
-🔗 Submission
-After finalizing this file, add this link to submissions.md:
+<div align="center">
+  <img src="./image/tam.jpeg" width="200px">
+</div>
 
-our-team.md
-📝 Notes
-This is the current team overview version.
-Teammate-by-teammate introductions, photos, and social links will be added in the next update.
+<br>
+
+<h1>💭 What kind of person are you, and why?</h1>
+
+I am a hardworking, curious, and responsible person. I enjoy learning new things, especially about technology, cybersecurity, and software development. When I have a goal, I try my best to achieve it and I am not afraid of challenging myself. 🚀
+
+<h1>💻 What do you like to do in your free time, and why?</h1>
+
+In my free time, I like practicing cybersecurity, joining CTF competitions, programming, and exploring new technologies. I enjoy these activities because they help me improve my technical skills and allow me to learn from real-world problems. 🧠
+
+<h1>🚀 What kind of business would you like to start, and why?</h1>
+
+I would like to start a technology business that develops software and AI solutions. I am interested in creating applications that can solve real problems and make people's lives easier. I believe technology and AI have a lot of potential to create useful products and new opportunities. 🤖
+
+<h1>🎯 What are your goals for the future, and why?</h1>
+
+My goal is to become a skilled technology professional with strong knowledge of software development, cybersecurity, cloud computing, and AI. I also want to gain experience from real projects and competitions. In the future, I would like to create my own technology products or business and use my skills to solve problems in society. 🌎
+
+<h1>💪 What is your greatest strength, and why?</h1>
+
+My greatest strength is that I am willing to learn and improve myself. When I face something I do not understand, I try to research, practice, and find a solution instead of giving up. I also work well with others and believe that good communication and teamwork are important for achieving a goal. 🤝
