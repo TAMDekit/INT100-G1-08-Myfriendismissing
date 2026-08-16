@@ -3,7 +3,7 @@
 
 <center>
 
-  <img src="image/thanwa.jpg" alt="thanwa" width="300" height="300">
+  <div align="center"><img src="image/thanwa.jpg" alt="thanwa" width="300" height="300"></div>
   <br>
   <h2><a href="https://github.com/decemberlnwza007">GitHub: decemberlnwza007</a><h/2>
 </center>
