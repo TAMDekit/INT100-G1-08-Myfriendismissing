@@ -3,9 +3,9 @@
 
 <center>
 
-  <div align="center"><img src="image/thanwa.jpg" alt="thanwa" width="300" height="300"></div>
+  <div align="center"><img src="image/thanwa.jpg" alt="thanwa" width="300" height="300">
   <br>
-  <h2><a href="https://github.com/decemberlnwza007">GitHub: decemberlnwza007</a><h/2>
+  <h2><a href="https://github.com/decemberlnwza007">GitHub: decemberlnwza007</a><h/2></div>
 </center>
 
 <p>
