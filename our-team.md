@@ -1,5 +1,4 @@
-
-<h1><p align="center"><strong>Interview by Natthawat Rodchanathanatham 69130500020</strong></p></h1>
+<p align="center"><strong>Interview by Natthawat Rodchanathanatham 69130500020</strong></p></h1>
 
 <center>
 
@@ -10,6 +9,15 @@
 
 <p>
 <p>
+
+## 💻 Skills
+
+- Programming
+- Problem Solving
+- Teamwork
+- Technology Learning
+
+
 <h1>1. What kind of person are you, and why? 😊💪</h1>
 - I am a friendly and hardworking person. I like learning new things 📚 and challenging myself 🎯 because I always want to improve and become better. 🚀
 </p>
