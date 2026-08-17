@@ -1,47 +1,22 @@
-👥 Team Introduction — INT100-G1-08-Myfriendismissing
-Welcome to our team repository!
-We are students in INT100-G1-08, and this file introduces our team and our collaboration process on GitHub.
+<center>
+<h1>Interview by Phattharaphon-044</h1>
+<img src="https://cdn.phototourl.com/free/2026-08-16-1b139644-d4cb-4ea8-ad66-70b433c44f47.png">
 
-🧠 Team Name: Myfriendismissing
-Our team name is Myfriendismissing.
+<a href="https://github.com/wanna-h2712">GitHub: wanna-h2712 </a>
+<center>
+<h1>1.What kind of person are you, and why?</h1>
+-I’m an easy-going person and I can get along with others easily, but sometimes I’m not very good at speaking because I enjoy talking and interacting with other people. At the same time, I also like a peaceful and quiet atmosphere when I need to recharge my energy.🪫⚡
 
-We chose this name because it is unique, memorable, and reflects teamwork in a fun way.
-The meaning behind the name is that when one friend is “missing,” everyone in the group helps and supports each other.
-This represents our team spirit: no one gets left behind. 🤝
+<h1>2.What do you like to do in your free time, and why?</h1>
+-I like listening to music and singing, or exercising because I want to take care of my health. I also like listening to music while exercising because it makes me feel relaxed and motivated. 🏃‍♂️🎼
 
-👤 Team Members
-@member1
-@member2
-@member3
-@member4
-Replace with actual GitHub usernames.
+<h1>3.What is the most important thing in your life, and why?</h1>
+-The most important thing to me is my family because they always support me, encourage me, and make me feel loved and safe.🥰💖
 
-📌 Collaboration Plan (GitHub Flow)
-We follow GitHub Flow in this project:
+<h1>4.What experience has had the biggest impact on who you are today?</h1>
+-Working with other people has had the biggest impact on me because it taught me how to communicate, work as a team, and become more confident.👥💪
 
-One member creates the repository.
-Each member creates their own branch.
-Each member edits our-team.md in their branch.
-Each member opens a Pull Request (PR).
-Another teammate reviews and approves the PR.
-PR is merged only after approval ✅
-🗂️ Required Work Checklist
- Create our-team.md
- Discuss and document team name decision (Issue)
- Create issues for teammate introduction details
- Each member writes an introduction for another teammate
- Use required markdown:
- Picture
- Link
- List
- Emoji
- Every PR reviewed and approved by another teammate
- Invite aj.Siam and class tutors as collaborators
- Add file link to submissions.md
-🔗 Submission
-After finalizing this file, add this link to submissions.md:
+<h1>5.What do you think a good business should have, and why?</h1>
+-I think a good business should be honest and trustworthy because customers need to feel confident when buying products or services.👩‍💼🗨️
 
-our-team.md
-📝 Notes
-This is the current team overview version.
-Teammate-by-teammate introductions, photos, and social links will be added in the next update.
+<h1>Answer by Wannakorm_053</h1>
