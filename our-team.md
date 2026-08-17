@@ -38,7 +38,7 @@
 <div align="center">
 
 <h4>🎤 Interview By</h4>
-<h1>Phongsakon Thongrak | 69130500037</h1>
+<h1>Natthawat Rodchanathanatham | 69130500020</h1>
 
 </div>
 
