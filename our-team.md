@@ -1,11 +1,16 @@
-  <p align="center"><strong>Interview by Natthawat Rodchanathanatham 69130500020</strong></p></h1>
+  ## **<p align="center"><strong>Interview by Natthawat Rodchanathanatham 69130500020</strong></p></h1>**
 
-  <center>
-
-    <div align="center"><img src="image/thanwa.jpg" alt="thanwa" width="250" height="300">
+<center>
+  <div>
+    <img src="image/thanwa.jpg" alt="thanwa" width="250" height="300">
     <br>
-    <h2><a href="https://github.com/decemberlnwza007">GitHub: decemberlnwza007</a><h/2></div>
-  </center>
+    <h2>
+      <a href="https://github.com/decemberlnwza007">
+        GitHub: decemberlnwza007
+      </a>
+    </h2>
+  </div>
+</center>
 
   <p>
   <p>
