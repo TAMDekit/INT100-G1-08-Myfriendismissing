@@ -42,14 +42,14 @@
 
 </div>
 
-👤 <b>Name:</b> Natthawat Rodchanathanatham <br>
-✨ <b>Nickname:</b> Tam <br>
-💻 <b><a href="https://www.instagram.com/tam.ntw/">Instagram</a></b>
+
 
 <br>
 
 <div align="center">
   <img src="./image/unnamed.jpg" width="200px">
+  <p>
+  💻 <b><a href="https://www.facebook.com/brick.rows">Facebook</a></b>
 </div>
 
 <br>
