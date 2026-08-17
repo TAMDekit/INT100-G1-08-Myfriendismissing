@@ -1,3 +1,11 @@
+# Our Team — INT100-G1-08-MyFriendIsMissing
+
+## ชื่อทีม: MyFriendIsMissing
+คำอธิบายที่มาของชื่อทีม:
+เราเลือกชื่อ "MyFriendIsMissing" เพราะ... เพื่อนเราหาย ตามหาไม่เจอ หาแล้วหาอีก ทักลงไลน์กลุ่มก็ยังไม่มีการตอบรับ 🕵️‍♀️🔍
+
+---
+
 🎤 Interview
 <span style="color:#6C63FF;">Interview By</span>
 Wannakorn Chongsanguan
