@@ -74,6 +74,15 @@ _________________________________________________________
 -I think a good business should be honest and trustworthy because customers need to feel confident when buying products or services.👩‍💼🗨️
 
 <h1>Answer by Wannakorm_053</h1>
+<div align="center">
+
+📝 Interview Information
+
+<table> <tr> <td><strong>Interview by</strong></td> <td>Phattharaphon_044</td> </tr> <tr> <td><strong>Answer by</strong></td> <td>Wannakorn_053</td> </tr> </table>
+
+<br>
+
+<sub>🎤 Interview By Phattharaphon_044</sub>
 
 __________________________________________________________________
 
@@ -116,7 +125,15 @@ My goal is to become a skilled technology professional with strong knowledge of 
 <h1>💪 What is your greatest strength, and why?</h1>
 
 My greatest strength is that I am willing to learn and improve myself. When I face something I do not understand, I try to research, practice, and find a solution instead of giving up. I also work well with others and believe that good communication and teamwork are important for achieving a goal. 🤝
+<div align="center">
 
+📝 Interview Information
+
+<table> <tr> <td><strong>Interview by</strong></td> <td>Phongsakon Thongrak</td> </tr> <tr> <td><strong>Answer by</strong></td> <td>Natthawat Rodchanathanatham020</td> </tr> </table>
+
+<br>
+
+<sub>🎤 Interview By Phongsakon Thongrak</sub>
 ____________________________________________________________
 
 
@@ -155,3 +172,13 @@ ____________________________________________________________
 
   ## ***5. What is your greatest strength, and why? 💪🔥***
   - ### My greatest strength is that I am willing to learn 📚 and never give up easily. 💪 When I face a difficult problem 🧩, I try to find a solution 💡 and learn from my mistakes. 🌱
+
+  <div align="center">
+
+📝 Interview Information
+
+<table> <tr> <td><strong>Interview by</strong></td> <td>Natthawat Rodchanathanatham020</td> </tr> <tr> <td><strong>Answer by</strong></td> <td>Phongsakon Thongrak037</td> </tr> </table>
+
+<br>
+
+<sub>🎤 Interview By Natthawat Rodchanathanatham020</sub>
