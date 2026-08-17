@@ -6,12 +6,12 @@
 
 ---
 
-🎤 Interview
-<span style="color:#6C63FF;">Interview By</span>
-Wannakorn Chongsanguan
 
-<img src="https://cdn.phototourl.com/free/2026-08-16-4c2d9cf7-3e1a-46df-9ce7-f6ec8b80d953.png" alt="Noon Photo" width="300">
+<p align="center"> <strong>🎤 InterviewBy</strong><br> <span style="color:#6C63FF; font-size:20px;"><strong>Wannakorn Chongsanguan</strong></span> </p>
 
+<p align="center"> <img src="https://cdn.phototourl.com/free/2026-08-16-4c2d9cf7-3e1a-46df-9ce7-f6ec8b80d953.png" alt="Noon" width="250" height="300" > </p>
+
+<p align="center"> <strong>👤 Noon</strong> </p>
 <div align="center">
 
 ## <h2><a href="https://github.com/mairusikub">GitHub: mairusikub</a></h2>
