@@ -1,43 +1,47 @@
-<p align="center"><strong>Interview by Natthawat Rodchanathanatham 69130500020</strong></p></h1>
+👥 Team Introduction — INT100-G1-08-Myfriendismissing
+Welcome to our team repository!
+We are students in INT100-G1-08, and this file introduces our team and our collaboration process on GitHub.
 
-<center>
+🧠 Team Name: Myfriendismissing
+Our team name is Myfriendismissing.
 
-  <div align="center"><img src="image/thanwa.jpg" alt="thanwa" width="300" height="300">
-  <br>
-  <h2><a href="https://github.com/decemberlnwza007">GitHub: decemberlnwza007</a><h/2></div>
-</center>
+We chose this name because it is unique, memorable, and reflects teamwork in a fun way.
+The meaning behind the name is that when one friend is “missing,” everyone in the group helps and supports each other.
+This represents our team spirit: no one gets left behind. 🤝
 
-<p>
-<p>
+👤 Team Members
+@member1
+@member2
+@member3
+@member4
+Replace with actual GitHub usernames.
 
-## 💻 Skills
+📌 Collaboration Plan (GitHub Flow)
+We follow GitHub Flow in this project:
 
-- Programming
-- Problem Solving
-- Teamwork
-- Technology Learning
+One member creates the repository.
+Each member creates their own branch.
+Each member edits our-team.md in their branch.
+Each member opens a Pull Request (PR).
+Another teammate reviews and approves the PR.
+PR is merged only after approval ✅
+🗂️ Required Work Checklist
+ Create our-team.md
+ Discuss and document team name decision (Issue)
+ Create issues for teammate introduction details
+ Each member writes an introduction for another teammate
+ Use required markdown:
+ Picture
+ Link
+ List
+ Emoji
+ Every PR reviewed and approved by another teammate
+ Invite aj.Siam and class tutors as collaborators
+ Add file link to submissions.md
+🔗 Submission
+After finalizing this file, add this link to submissions.md:
 
-
-<h1>1. What kind of person are you, and why? 😊💪</h1>
-- I am a friendly and hardworking person. I like learning new things 📚 and challenging myself 🎯 because I always want to improve and become better. 🚀
-</p>
-
-<h1>2. What do you like to do in your free time, and why? 🎮⚽💻</h1>
-- In my free time, I like playing games 🎮, watching football ⚽, and learning about technology and programming 💻. These activities help me relax 😌 and also give me new ideas. 💡
-
-
-<p>
-<p>
-<h1>3. What kind of business would you like to start, and why? 💻🚀</h1>
-I would like to start a technology or software business. 🧑‍💻 I enjoy programming and creating useful applications 📱, so I want to use my skills to solve real problems 🛠️ and build something of my own. 🌟
-
-
-<p>
-<p>
-<h1>4. What are your goals for the future, and why? 🎯🏆</h1>
-My goals are to become a successful software engineer 👨‍💻, gain more experience 📈, and have a stable career. 💼 I also want to keep improving my skills because technology is always changing. 🌐🚀
-
-
-<p>
-<h1>5. What is your greatest strength, and why? 💪🔥</h1>
-My greatest strength is that I am willing to learn 📚 and never give up easily. 💪 When I face a difficult problem 🧩, I try to find a solution 💡 and learn from my mistakes. 🌱
+our-team.md
+📝 Notes
+This is the current team overview version.
+Teammate-by-teammate introductions, photos, and social links will be added in the next update.
