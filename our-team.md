@@ -179,53 +179,11 @@ ____________________________________________________________
 
 <table> <tr> <td><strong>Interview by</strong></td> <td>Natthawat Rodchanathanatham020</td> </tr> <tr> <td><strong>Answer by</strong></td> <td>Phongsakon Thongrak037</td> </tr> </table>
 
-<br>
-
-<sub>🎤 Interview By Natthawat Rodchanathanatham020</sub>
 
 <div align="center">
 
 <h4>🎤 Interview By</h4>
-<h1>Natthawat Rodchanathanatham | 69130500020</h1>
-
-</div>
-
-👤 <b>Name:</b> Natthawat Rodchanathanatham <br>
-✨ <b>Nickname:</b> Tam <br>
-💻 <b><a href="https://www.instagram.com/tam.ntw/">Instagram</a></b>
-
-<br>
-
-<div align="center">
-  <img src="./image/unnamed.jpg" width="200px">
-</div>
-
-<br>
-
-<h1>💭 What kind of person are you, and why?</h1>
-
-I am a hardworking, curious, and responsible person. I enjoy learning new things, especially about technology, cybersecurity, and software development. When I have a goal, I try my best to achieve it and I am not afraid of challenging myself. 🚀
-
-<h1>💻 What do you like to do in your free time, and why?</h1>
-
-In my free time, I like practicing cybersecurity, joining CTF competitions, programming, and exploring new technologies. I enjoy these activities because they help me improve my technical skills and allow me to learn from real-world problems. 🧠
-
-<h1>🚀 What kind of business would you like to start, and why?</h1>
-
-I would like to start a technology business that develops software and AI solutions. I am interested in creating applications that can solve real problems and make people's lives easier. I believe technology and AI have a lot of potential to create useful products and new opportunities. 🤖
-
-<h1>🎯 What are your goals for the future, and why?</h1>
-
-My goal is to become a skilled technology professional with strong knowledge of software development, cybersecurity, cloud computing, and AI. I also want to gain experience from real projects and competitions. In the future, I would like to create my own technology products or business and use my skills to solve problems in society. 🌎
-
-<h1>💪 What is your greatest strength, and why?</h1>
-
-My greatest strength is that I am willing to learn and improve myself. When I face something I do not understand, I try to research, practice, and find a solution instead of giving up. I also work well with others and believe that good communication and teamwork are important for achieving a goal. 🤝
-
-<div align="center">
-
-<h4>🎤 Interview By</h4>
-<h1>Phakapon Waeowab | ...</h1>
+<h1>Phakapon Waeowab | 69130500041</h1>
 
 </div>
 
@@ -260,3 +218,49 @@ Joining an English-only Hackathon had the biggest impact on me, even though I co
 <h1>💪 What do you think a good business should have, and why?</h1>
 
 A good business should have a strong leader and CEO because good leadership helps the business succeed. 👔🚀
+
+<div align="center">
+
+<h4>🎤 Interview By</h4>
+<h1>Ratthakit Wiangsanthia | 69130500048</h1>
+
+</div>
+
+👤 <b>Name:</b> Phakhapon Waeowab <br>
+✨ <b>Nickname:</b> tam <br>
+💻 <b><a href="https://github.com/rows23">github</a></b>
+
+<br>
+
+<div align="center">
+  <img src="./image/unnamed.jpg" width="200px">
+</div>
+
+<br>
+
+<h1>💭 What kind of person are you, and why?</h1>
+
+I’m a relentless builder and tech enthusiast driven by curiosity. I naturally gravitate toward complex systems and enjoy breaking down tough problems until I find an elegant solution.
+
+<h1>💻 What do you like to do in your free time, and why?</h1>
+
+I love diving into security labs, breaking code in CTF challenges, and hacking together passion projects. It’s my way of turning theoretical knowledge into battle-tested skill.
+
+<h1>🚀 What kind of business would you like to start, and why?</h1>
+
+I want to found an intelligent automation and defense startup. My aim is to build smart software that protects digital assets while making complex tasks effortless for everyday users.
+
+<h1>🎯 What are your goals for the future, and why?</h1>
+
+I aim to become a versatile technical architect across software, cloud, and cybersecurity. Long-term, I want to use that expertise to ship impactful products through my own venture.
+
+
+<h1>💪 What is your greatest strength, and why?</h1>
+
+My standout trait is resourcefulness. When I hit a wall, I dig deep into documentation, experiment relentlessly, and collaborate with my team until we get results.
+
+📝 Interview Information
+
+<table> <tr> <td><strong>Interview by</strong></td> <td>Ratthakit Wiangsanthia</td> </tr> <tr> <td><strong>Answer by</strong></td> <td>Phakhapon Waeowab</td> </tr> </table>
+
+<br>
