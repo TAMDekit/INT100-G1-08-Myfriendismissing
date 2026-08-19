@@ -36,6 +36,7 @@ I aim to become a versatile technical architect across software, cloud, and cybe
 <h1>💪 What is your greatest strength, and why?</h1>
 
 My standout trait is resourcefulness. When I hit a wall, I dig deep into documentation, experiment relentlessly, and collaborate with my team until we get results.
+
 📝 Interview Information
 
 <table> <tr> <td><strong>Interview by</strong></td> <td>Ratthakit Wiangsanthia</td> </tr> <tr> <td><strong>Answer by</strong></td> <td>Phakhaphon Waeowab</td> </tr> </table>
