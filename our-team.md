@@ -6,7 +6,7 @@
 </div>
 
 👤 <b>Name:</b> Phakhapon Waeowab <br>
-✨ <b>Nickname:</b> tam <br>
+✨ <b>Nickname:</b> it <br>
 💻 <b><a href="https://github.com/rows23">github</a></b>
 
 <br>
@@ -30,16 +30,3 @@ I love diving into security labs, breaking code in CTF challenges, and hacking t
 I want to found an intelligent automation and defense startup. My aim is to build smart software that protects digital assets while making complex tasks effortless for everyday users.
 
 <h1>🎯 What are your goals for the future, and why?</h1>
-
-I aim to become a versatile technical architect across software, cloud, and cybersecurity. Long-term, I want to use that expertise to ship impactful products through my own venture.
-
-
-<h1>💪 What is your greatest strength, and why?</h1>
-
-My standout trait is resourcefulness. When I hit a wall, I dig deep into documentation, experiment relentlessly, and collaborate with my team until we get results.
-
-📝 Interview Information
-
-<table> <tr> <td><strong>Interview by</strong></td> <td>Ratthakit Wiangsanthia</td> </tr> <tr> <td><strong>Answer by</strong></td> <td>Phakhapon Waeowab</td> </tr> </table>
-
-<br>
