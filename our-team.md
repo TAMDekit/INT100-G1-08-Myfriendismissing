@@ -42,5 +42,3 @@ My standout trait is resourcefulness. When I hit a wall, I dig deep into documen
 <table> <tr> <td><strong>Interview by</strong></td> <td>Ratthakit Wiangsanthia</td> </tr> <tr> <td><strong>Answer by</strong></td> <td>Phakhaphon Waeowab</td> </tr> </table>
 
 <br>
-
-<sub>🎤 Interview By Ratthakit Wiangsanthia</sub>
